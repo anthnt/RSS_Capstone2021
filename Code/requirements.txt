@@ -1,0 +1,14 @@
+# This .txt file automates the installation of python libraries required 
+# for the 2021-2022 RSS Capstone project thruster testing apparatus.
+#
+# While inside the working directory of this text file, run the following 
+# command inside the quotation marks in terminal to install the libraries: 
+# '$ pip install -r requirements.txt'
+
+# LIBRARIES WITHOUT VERSION SPECIFIERS
+
+pyserial
+pandas
+numpy
+matplotlib
+scipy
