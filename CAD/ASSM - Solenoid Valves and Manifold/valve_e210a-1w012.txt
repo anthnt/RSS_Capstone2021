@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"E210A-1W012";"";
+"TraceParts.PartVersion";"1.1.6";"";
+"SUPPLIER";"Clippard Minimatic";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-17112010-059479";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"10 mm Miniature Valves - 2/2 Normally-Closed - Wire Leads, 11.8'' (300 mm) - 0.020'' - 12-Volt DC";"";
+"TraceParts.InstanceId";"10-17112010-05947997LM7EYZIF37YXZPXVCHWZLWY";"";
+"TraceParts.PartTitle";"10 mm Miniature Valves - 2/2 Normally-Closed";"";
+"OMNICLASS23";"23.27.33.17";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"CLIPPARD:10-17112010-059479";"";
