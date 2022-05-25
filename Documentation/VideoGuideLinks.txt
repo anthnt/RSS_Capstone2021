@@ -2,5 +2,5 @@ There are three videos to guide the use and operation of the RSS Thruster Testin
 covering the installation of software, testing of sensors, and performing an experiment.
 
 Video 1 - Software Installation: https://vimeo.com/713636298/2065741260
-Video 2 - Sensor Testing and Calibration: https://vimeo.com/713636859
-Video 3 - Performing an Experiment: https://vimeo.com/713638287
+Video 2 - Sensor Testing and Calibration: https://vimeo.com/713636859/3aadb30fcb
+Video 3 - Performing an Experiment: https://vimeo.com/713638287/caa03cf1ef
